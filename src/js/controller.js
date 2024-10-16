@@ -10,6 +10,7 @@ import addRecipeView from './views/addRecipeView.js';
 import { async } from 'regenerator-runtime';
 
 //https://forkifyresturant.netlify.app/ the url of the site
+//asdasdasd
 const controlRecipes = async function () {
   try {
     const id = window.location.hash.slice(1);
