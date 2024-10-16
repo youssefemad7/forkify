@@ -9,8 +9,8 @@ import addRecipeView from './views/addRecipeView.js';
 import addRecipeView from './views/addRecipeView.js';
 import { async } from 'regenerator-runtime';
 
-//https://forkifyresturant.netlify.app/ the url of the site
-//asdasdasd
+//https://forkifyresturant.netlify.app/ the url of netlify
+//https://forkify-36hn.vercel.app/ the url of vercel
 
 const controlRecipes = async function () {
   try {
