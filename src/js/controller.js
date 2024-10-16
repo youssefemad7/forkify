@@ -3,7 +3,7 @@ import { MODAL_CLOSE_SEC } from './config.js';
 import recipeView from './views/recipeView.js';
 import searchView from './views/searchView.js';
 import resultsView from './views/resultsView.js';
-import paginationView from './views/PaginationView.js';
+import paginationView from './views/paginationView.js';
 import bookMarksView from './views/bookMarksView.js';
 import addRecipeView from './views/addRecipeView.js';
 import addRecipeView from './views/addRecipeView.js';
